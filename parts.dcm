@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 68901
+D Interface parallele
+K MPRO
+$ENDCMP
+#
+$CMP AT45DB321D-SU
+D 16Mb Serial DataFlash, SOIC28, Vcc=2.7V
+K Atmel DataFlash
+F http://www.atmel.com/Images/doc0807.pdf
+$ENDCMP
+#
+$CMP C96
+D Connector Europe, 96 contacts, ranges A,B,C
+K connector
+$ENDCMP
+#
+$CMP HX1188NL
+D Transformer, single primary, split secondary
+K transformer coil magnet
+F ~
+$ENDCMP
+#
+$CMP MC68230FN
+D PIT Interface parallele et Timer
+K MPRO
+$ENDCMP
+#
+$CMP MC68681FN
+D Interface serie 2 voies + 1 port parallele
+K MPRO
+$ENDCMP
+#
+$CMP W25Q128FVSG
+D 32Mb, Dual I/O, 4KB Subsector Erase, 3V Serial Flash Memory with 75 MHz SPI Bus Interface, SOIJ package
+K NOR Serial Flash Embedded Memory
+F https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25px/m25px32.pdf
+$ENDCMP
+#
+#End Doc Library

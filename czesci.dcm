@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 27512
+D REPROM 64 Ko
+K REPROM 64KO
+$ENDCMP
+#
+$CMP 27C512
+D REPROM 64 Ko
+K REPROM 64KO
+$ENDCMP
+#
+$CMP 27c4096
+D 1024k x 8 EPROM
+K 1024k EPROM
+F https://outflux.net/software/pkgs/EPROM/27c801.pdf
+$ENDCMP
+#
+$CMP 27c801
+D 1024k x 8 EPROM
+K 1024k EPROM
+F https://outflux.net/software/pkgs/EPROM/27c801.pdf
+$ENDCMP
+#
+$CMP 555
+D 555-series timer IC
+K timer
+F ns/lm555.pdf
+$ENDCMP
+#
+$CMP 68B21
+D Interface parallele 2 x 8 bits
+K MPRO
+$ENDCMP
+#
+$CMP 68B40
+D Timer
+K MPRO
+$ENDCMP
+#
+$CMP 68B50
+D UART
+K MPRO
+$ENDCMP
+#
+$CMP 68HC000P
+D Microprocesseur bus 16 bits
+K MPRO
+$ENDCMP
+#
+$CMP NE555
+D 555-series timer IC
+K timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SIMM72
+D Barrette SIMM 4Mo (1M x 32bits)
+K DRAM 4MO
+$ENDCMP
+#
+#End Doc Library

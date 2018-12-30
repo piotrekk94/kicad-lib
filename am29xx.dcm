@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Am2910
+D Dual Multiplexer 4 to 1, 3-State Outputs
+K TTL MUX MUX4 3State
+F http://www.ti.com/lit/gpn/sn74LS253
+$ENDCMP
+#
+$CMP Am29101
+D Dual Multiplexer 4 to 1, 3-State Outputs
+K TTL MUX MUX4 3State
+F http://www.ti.com/lit/gpn/sn74LS253
+$ENDCMP
+#
+#End Doc Library
