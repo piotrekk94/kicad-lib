@@ -38,4 +38,10 @@ K NOR Serial Flash Embedded Memory
 F https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25px/m25px32.pdf
 $ENDCMP
 #
+$CMP W25Q128JVSIQ
+D 32Mb, Dual I/O, 4KB Subsector Erase, 3V Serial Flash Memory with 75 MHz SPI Bus Interface, SOIJ package
+K NOR Serial Flash Embedded Memory
+F https://www.micron.com/~/media/documents/products/data-sheet/nor-flash/serial-nor/m25px/m25px32.pdf
+$ENDCMP
+#
 #End Doc Library
